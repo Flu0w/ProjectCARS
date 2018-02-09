@@ -1,0 +1,62 @@
+        .button {
+            width: 120px;
+            height: 120px;
+            /* Permet pour la class button 
+            de redimenssionner les images */
+        }
+        
+        body {
+            position: fixed;
+            display: block;
+            background-color: #bcbdc1;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+        
+        #titre {
+            width: 100%;
+            text-align: center;
+        }
+        
+        #stitre {
+            width: 100%;
+            text-align: center;
+        }
+        
+        #banniere {
+            width: 100%;
+            text-align: center;
+            background-color: #bdc3c7;
+            border-radius: 20px;
+            box-shadow: 3px 3px 3px #95a5a6;
+        }
+        
+        #banniere p {
+            display: inline-block;
+        }
+        
+        #pedalaccel {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+        }
+        
+        #pedalfrein {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+        }
+        
+        #bandeau {
+            width: 100%;
+            text-align: center;
+            background-color: #bdc3c7;
+            border-radius: 20px;
+            box-shadow: 3px 3px 3px #95a5a6;
+        }
+        
+        #bandeau p {
+            display: inline-block;
+        }

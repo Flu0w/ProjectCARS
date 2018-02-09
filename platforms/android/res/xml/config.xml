@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="geii.ptut.projectcars" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <feature name="BluetoothSerial">
+        <param name="android-package" value="com.megster.cordova.BluetoothSerial" />
+    </feature>
+    <feature name="Accelerometer">
+        <param name="android-package" value="org.apache.cordova.devicemotion.AccelListener" />
+    </feature>
+    <feature name="Gyroscope">
+        <param name="android-package" value="com.android.plugins.GyroscopeListener" />
+    </feature>
+    <feature name="CDVOrientation">
+        <param name="android-package" value="cordova.plugins.screenorientation.CDVOrientation" />
+    </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>ProjectCARS</name>
+    <description>
+        Une application crée par les étudiants EN ALTERNANCE : RIGAUD, VIOCHE, PERE, QUINSAC, PRZYZYZYZYZYZYZYZY.....SKI
+    </description>
+    <author email="florian.rgd@gmail.com" href="https://www.iut.u-bordeaux.fr/geii/">
+        BALAI+STEACK Ltd.
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="loglevel" value="DEBUG" />
+</widget>

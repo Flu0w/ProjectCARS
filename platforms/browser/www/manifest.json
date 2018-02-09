@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "ProjectCARS",
+  "short_name": "ProjectCARS",
+  "version": "geii.ptut.projectcars",
+  "description": "Une application crée par les étudiants EN ALTERNANCE : RIGAUD, VIOCHE, PERE, QUINSAC, PRZYZYZYZYZYZYZYZY.....SKI",
+  "author": "BALAI+STEACK Ltd.",
+  "icons": [],
+  "start_url": "index.html"
+}

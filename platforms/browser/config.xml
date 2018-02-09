@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="geii.ptut.projectcars" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>ProjectCARS</name>
+    <description>
+        Une application crée par les étudiants EN ALTERNANCE : RIGAUD, VIOCHE, PERE, QUINSAC, PRZYZYZYZYZYZYZYZY.....SKI
+    </description>
+    <author email="florian.rgd@gmail.com" href="https://www.iut.u-bordeaux.fr/geii/">
+        BALAI+STEACK Ltd.
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
